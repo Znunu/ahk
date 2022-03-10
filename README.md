@@ -1,2 +1,2 @@
 # ahk
-Advanced fully customized keyboard
+Python files are used to generate AHK code
